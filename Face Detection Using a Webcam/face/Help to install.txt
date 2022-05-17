@@ -1,0 +1,8 @@
+Alt+Ctrl+S----> Python interpreter
+cmake---> dlib--->face_recognition---->pillow
+
+
+install "VisualStudioSetup.exe", according following link:
+https://visualstudio.microsoft.com/downloads/
+install "community" of it.
+
